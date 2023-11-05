@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on: <br> I’m currently working on Fullstack projects<br> <br><br> I’m currently learning Advanced React js and AWS Services<br><br>🤝 I’m looking for help with<br>🌱 I’m currently learning:<br>Advanced React js and AWS Services<br><br>💬 Ask me about:<br>JavaScript, React,  Node.js, and any general software development questions.<br><br>⚡ Fun fact:<br>I love to explore new thinks .
+🔭 I’m currently working on: <br> I’m currently working on Fullstack projects<br><br>🌱 I’m currently learning:<br>Advanced React js and AWS Services<br><br>💬 Ask me about:<br>JavaScript, React,  Node.js, and any general software development questions.<br><br>⚡ Fun fact:<br>I love to explore new thinks .
 
 
 ## 🌐 Socials:
